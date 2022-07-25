@@ -1,4 +1,4 @@
 # test
 
 first: Elsa
-second: Chi Tower
+second: Chi Tower Sweety
