@@ -1,4 +1,4 @@
 # test
 
-first: elsa
-second: chi tower
+first: Elsa
+second: Chi Tower
