@@ -1,4 +1,3 @@
 # test
 
-first: Elsa
-second: Chi Tower Sweety
+full name: Chi Tower Sweety Elsa
